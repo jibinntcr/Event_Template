@@ -1,3 +1,2 @@
-# Axon-The-Annual-Conference
-A corporate technology based website is designed and developed by Zayed Mohammed Uddin.
-Without owner's permission, any changes or any publications are unethical and prohibited.
+MES Grand Fiesta 2024 - The Annual Intercollegiate Techno-Cultural Fest
+The MES Grand Fiesta 2024 website has been skillfully developed by Infinio Technology Solutions. Unauthorized alterations or publications without proper consent are deemed unethical and strictly forbidden.
